@@ -1,0 +1,17 @@
+{
+  "name": "todo_challenge",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Icicleta/todo_challenge",
+  "authors": [
+    "icicleta <icicleta@gmail.com>"
+  ],
+  "description": "AngularJS project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
